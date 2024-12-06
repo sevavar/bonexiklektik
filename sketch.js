@@ -1,6 +1,6 @@
 let wavelength = 75;
 let waveSpeed = 0.05;
-let resolution = 15;
+let resolution = 20;
 
 let gradientStops;
 
