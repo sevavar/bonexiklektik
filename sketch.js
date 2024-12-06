@@ -5,7 +5,7 @@ let resolution = 15;
 let gradientStops;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(windowWidth, windowHeight);
   //noCursor();
   noSmooth();
 
